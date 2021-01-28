@@ -1,0 +1,16 @@
+Hello {EMAIL}!
+
+You've been issued a server code for use use with the PDL Getting Git course.
+Please use the code below to create and configure a Virtual Machine (VM) for
+this course.
+
+Server Code: {SERVER_CODE}
+
+VM Creation Guide:
+
+https://docs.google.com/document/d/1h38EFiRNhqT-aK_b99S6tKytCucpizfwjEi-cAVKD5k
+
+Finally, if you have any issues with this code, please reach out to the PDL
+team.
+
+Best, Paul
